@@ -35,13 +35,13 @@ To run **Organica** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/organica.git
+sudo git clone https://github.com/vsb-04/Organica.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/organica.git
+git clone https://github.com/vsb-04/Organica.git
 ```
 
 ### Contact
