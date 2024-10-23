@@ -2,11 +2,6 @@
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/organica)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/organica?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/organica?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/sgCSEk1XsCo?style=social)](https://youtu.be/sgCSEk1XsCo)
 
   <br />
   <br />
@@ -15,7 +10,6 @@
 
   Organica is a fully responsive organic ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/organica/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
